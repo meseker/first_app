@@ -1,0 +1,12 @@
+c:\users\gary\documents\visual studio 2012\Projects\KinectSkeletonApp1\KinectSkeletonApp1\bin\Debug\KinectSkeletonApp1.exe
+c:\users\gary\documents\visual studio 2012\Projects\KinectSkeletonApp1\KinectSkeletonApp1\bin\Debug\KinectSkeletonApp1.pdb
+c:\users\gary\documents\visual studio 2012\Projects\KinectSkeletonApp1\KinectSkeletonApp1\obj\x86\Debug\KinectSkeletonApp1.csprojResolveAssemblyReference.cache
+c:\users\gary\documents\visual studio 2012\Projects\KinectSkeletonApp1\KinectSkeletonApp1\obj\x86\Debug\MainWindow.baml
+c:\users\gary\documents\visual studio 2012\Projects\KinectSkeletonApp1\KinectSkeletonApp1\obj\x86\Debug\MainWindow.g.cs
+c:\users\gary\documents\visual studio 2012\Projects\KinectSkeletonApp1\KinectSkeletonApp1\obj\x86\Debug\App.g.cs
+c:\users\gary\documents\visual studio 2012\Projects\KinectSkeletonApp1\KinectSkeletonApp1\obj\x86\Debug\KinectSkeletonApp1_MarkupCompile.cache
+c:\users\gary\documents\visual studio 2012\Projects\KinectSkeletonApp1\KinectSkeletonApp1\obj\x86\Debug\KinectSkeletonApp1.g.resources
+c:\users\gary\documents\visual studio 2012\Projects\KinectSkeletonApp1\KinectSkeletonApp1\obj\x86\Debug\KinectSkeletonApp1.Properties.Resources.resources
+c:\users\gary\documents\visual studio 2012\Projects\KinectSkeletonApp1\KinectSkeletonApp1\obj\x86\Debug\KinectSkeletonApp1.csproj.GenerateResource.Cache
+c:\users\gary\documents\visual studio 2012\Projects\KinectSkeletonApp1\KinectSkeletonApp1\obj\x86\Debug\KinectSkeletonApp1.exe
+c:\users\gary\documents\visual studio 2012\Projects\KinectSkeletonApp1\KinectSkeletonApp1\obj\x86\Debug\KinectSkeletonApp1.pdb
